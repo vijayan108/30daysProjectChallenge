@@ -1,6 +1,6 @@
 # 30daysProjectChallenge
 
-## 30 Days Coding Challenge
+### 30 Days Coding Challenge
 
 ### Introduction:
 
@@ -23,3 +23,8 @@ Each day, you will be given a new coding task to complete. The tasks will vary i
 We hope that this challenge will help you build a habit of daily coding practice, and improve your coding skills over the course of 30 days.
 
 Good luck, and happy coding!
+
+
+### Credits:
+
+We would like to give a special thanks to Coding Nisha for creating and sharing the 30 Days Coding Challenge. Their dedication to promoting coding education and providing valuable resources for the coding community is greatly appreciated. Thank you, Coding Nisha, for inspiring and empowering us to become better programmers.
