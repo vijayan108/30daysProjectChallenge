@@ -9,11 +9,11 @@ Welcome to the 30 Days Coding Challenge! This challenge is designed to help you 
 ### Getting Started
 > To participate in the challenge, follow these steps:
 
-1.Fork this repository and clone it to your local machine.
-2.Create a new branch for each day of the challenge.
-3.Complete the coding task for the day in the corresponding branch.
-4.Commit and push your changes to your forked repository.
-5.Submit a pull request for each day's task.
+1. Fork this repository and clone it to your local machine.
+2. Create a new branch for each day of the challenge.
+3. Complete the coding task for the day in the corresponding branch.
+4. Commit and push your changes to your forked repository.
+5. Submit a pull request for each day's task.
 
 ### Daily Tasks
 Each day, you will be given a new coding task to complete. The tasks will vary in difficulty and complexity, but are designed to be achievable within a day.
