@@ -5,18 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Todo App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link  type="text/css" rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="centre">
     <div class="container">
         <h1>Todo List</h1>
 
         <div class="input-container">
-            <input type="text" id="input" placeholder="Enter your todo">
-            <button id="add">Add</button>
+            <input type="text" id="todoInput" placeholder="Enter your todo">
+            <button id="addBtn">Add</button>
         </div>
+        <!-- this list will add by JS -->
+        <ul id="todoList">
+
+            <!-- <li class="todo-item">
+                <input type="checkbox" class="todo-checkbox">
+                <p class="todo-text">This is a todo</p>
+                <button class="delete-btn">Delete</button>
+            </li> -->
+        </ul>
 
     </div>
+</div>
     
     <script src="script.js"></script>
 </body>
