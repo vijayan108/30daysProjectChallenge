@@ -15,7 +15,7 @@ addBtn.addEventListener("click", function () {
 
 
         i.classList.add('fas','fa-trash-alt');
-        removeTodoButton.appendChild(i);
+        removeTodoButton.appendChild(i); 
         
         li.appendChild(removeTodoButton);
         todoList.appendChild(li);
