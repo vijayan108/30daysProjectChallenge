@@ -68,6 +68,7 @@ input[type=number] {
     padding: 0;
     color: #000;
     font-weight: bold;
+    text-rendering: optimizeSpeed;
 
 }
 
